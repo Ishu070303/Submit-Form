@@ -44,7 +44,6 @@ Please get familiar with the components of the project in order to be able to co
 - npm --version >= 3
 
 ## Screenshot of Project
-![alt text](https://i.ibb.co/bb4XRxZ/69-BC7-C61-A28-B-4-AD6-93-DB-DDEAE78-DE2-C7.jpg)
 A demo version is automatically deployed for this repositories:
 ![alt text](https://i.ibb.co/hWKkH89/B3-F9-CDF8-AEE3-4-C8-E-891-A-2-FF8-A1-B9-DE11.jpg) 
 A demo version is automatically deployed for this repositories:
