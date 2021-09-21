@@ -45,7 +45,7 @@ Please get familiar with the components of the project in order to be able to co
 
 ## Screenshot of Project
 
-<img src="https://drive.google.com/file/d/11WVoh6N3Z2_OuAuaq_ICtbZMHs1e4Lk2/view?usp=sharing" 
+<img src="https://drive.google.com/file/d/11WVoh6N3Z2_OuAuaq_ICtbZMHs1e4Lk2/view?usp=sharing"
 alt="Video Tutorial for Node.js-Expess-MongoDB-CRUD" width="500" height="400" border="10" />
 
 
