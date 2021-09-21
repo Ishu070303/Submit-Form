@@ -49,7 +49,7 @@ Please get familiar with the components of the project in order to be able to co
 </br>
 ![alt text](https://i.ibb.co/K28ycXr/6-D8-D8-CDA-D41-C-4026-B911-6-C696-F21-CC16.jpg)
 </br>
-![alt text](https://i.ibb.co/bb4XRxZ/69-BC7-C61-A28-B-4-AD6-93-DB-DDEAE78-DE2-C7.jpg) 
+![alt text](https://i.ibb.co/bb4XRxZ/69-BC7-C61-A28-B-4-AD6-93-DB-DDEAE78-DE2-C7.jpg)
 
 
 
