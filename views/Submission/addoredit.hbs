@@ -1,0 +1,49 @@
+  
+<h3 style="margin-bottom:1rem; font-family: 'Lato', sans-serif; color:#680c07; text-align: center;">{{viewTitle}}</h3>
+
+<form  action="/" method="POST" autocomplete="off">
+    <div class="form-group">
+        <label>Full Name</label>
+        <input type="text" class="form-control" name="fullname" placeholder="Full Name"  value="{{NewSubmission.fullname}}">
+        <div class="text-danger">
+            {{NewSubmission.fullnameError}}</div>
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input type="text" class="form-control" name="email" placeholder="Email" value="{{NewSubmission.email}}">
+        <div class="text-danger">
+            {{NewSubmission.emailError}}</div>
+    </div>
+     <div class="form-group ">
+            <label>Roll Number</label>
+            <input type="text" class="form-control col-md-4" name="rollnumber" placeholder="Roll Number" value="{{NewSubmission.rollnumber}}">
+            <div class="text-danger">
+            {{NewSubmission.rollnumberError}}</div>
+    </div>
+
+     
+    <form action="/" method="POST" enctype="multipart/form-data">
+    <div class="form-group">
+    <label> Upload File </label>
+
+    <input style="display:flex; margin-bottom:1rem;  margin-top:0.5rem; cursor:pointer; color:#fa8072;" type="file" name="uploadfile" value="{{NewSubmission.uploadfile}}"/>
+     <div class="text-danger">
+            {{NewSubmission.uploadfileError}}</div>        
+    </form>
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label>Mobile</label>
+            <input type="text" class="form-control" name="mobile" placeholder="Mobile">
+            <div class="text-danger">
+            {{NewSubmission.mobileError}}</div>
+        </div>
+        <div class="form-group col-md-6">
+            <label>City</label>
+            <input type="text" class="form-control" name="city" placeholder="City">
+        </div>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-danger">Submit</button>
+    </div>
+    </form>
